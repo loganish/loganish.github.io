@@ -27,8 +27,8 @@ button {
 }
 
 button:hover {
-		background-color: #222222;
-		transition: background-color 0.28s;
+	   background-color: #222;
+	   transition: background-color 0.28s;
 }
 
 img {
