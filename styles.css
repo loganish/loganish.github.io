@@ -26,6 +26,11 @@ button {
 	  border-radius: 15px;
 }
 
+button:hover {
+	  background-color: #222222;
+	  transition: background-color 0.28s;
+}
+
 img {
   display: block;
   margin-left: auto;
